@@ -7,4 +7,4 @@ To compile the file, use the following command line: gcc Calendar.c -o calendar
 
 To execute the file, use the following command line: ./calendar **size** **FIRSTDAY** 
 
-For instance, typing this command **./calendar 2 1** will give you the follwing output.
+For instance, typing this command **./calendar 2 1** will give you the output in the **example.jpg** file.
